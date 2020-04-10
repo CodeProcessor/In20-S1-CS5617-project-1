@@ -2,9 +2,9 @@
 
 #### Team : DS_G12
 
-#### Team Members: Leelananda C (209351B), Jayasuriya D.P. (209337M)
+#### Team Members: Leelananda H.T.C (209351B), Jayasuriya D.P. (209337M)
 
-#### Dataset : Keels Super Production Dataset - (This is not shared with the project)
+#### Dataset : Elepahnt House Ice Cream Manufatcuring Dataset - (This is not shared with the project)
 
 #### Summary of sample data
 |     | Date                | Product              | Planned start Time   | Actual Start Time   | Stop Time           |   Total time |   Startup Delay |   BreakDowns |   Eff Prod time |   Operating Speed |   Produced Qty |   Rejects Qty |   Mix Usage |   Mix Wastage |   Mix yield |       AR |        PR |       QR |       OEE |   Mix Per Stick |   Efficiency |   Planned Qty |
